@@ -17,6 +17,8 @@ Get Last Order Day of every month for every year.
 Top 2 highest Total order amount for each Customers.
 etc
 Representation of the insights with the help of the dashboard in power bi.
+
+Conclusions:
 1. Skin care are the most ordered product category.
 2. Prestige is the top brand being ordered.
 3. This shows that Skin care products are less expensive.
