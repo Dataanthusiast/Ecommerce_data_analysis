@@ -1,7 +1,14 @@
 # Ecommerce_data_analysis
-Introdcution: This data of ecomm website had data about the differents customers across globe with the details of the products, shipping, payments details etc.
-Problem: To find the top selling products, payment method being used and top contributing shippers to know the customer's behaviour across different cities and countries.
-Process: Started with powerbi to create the schema.
+Intro: 
+This data of ecomm website had data about the different customers across globe with the details of the products, shipping, payments details etc.
+
+
+Problem:
+ To find the top selling products, payment method being used and top contributing shippers to know the customer's behaviour across different cities and countries.
+
+
+Process: 
+Started with powerbi to create the schema.
 ![image](https://github.com/Dataanthusiast/Ecommerce_data_analysis/assets/128246911/10d30d9a-7c5b-4c0b-a12b-2e378b8f0efc)
 Then using SQL to generate meaningful insights to know the behavious of the customers.
 Like:  
